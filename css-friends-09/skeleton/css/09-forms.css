@@ -1,0 +1,24 @@
+/* PHASE 9: Forms */
+.input{
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px;
+  min-width: 100%;
+  border: 2px solid;
+
+}
+.form-class {
+  border-radius: 30px;
+  width: auto;
+  min-height: 200px;
+  padding: 80px;
+  margin: 30px;
+  background-color: #d6d4d3;
+
+}
+
+
+.input:focus {
+  border-color: red;
+  border: 2px solid red;
+}
